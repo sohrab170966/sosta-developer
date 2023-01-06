@@ -9,7 +9,11 @@ section{
 }
 .text-primary{
 
-    color: #FD6E0A;   
+    color: #FD6E0A; 
+   }
+   .dp-button{
+    display: flex;
+    padding-top: 10px;
    }
    .btn-primary{
     color: #FFFFFF;
@@ -21,6 +25,7 @@ font-weight: 700;
 font-size: 20px;
  border: 0px;
  align-items: center;
+
 
 
    }
