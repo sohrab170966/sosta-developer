@@ -2,6 +2,11 @@
     margin:0px;
     font-family: 'Open Sans', sans-serif;
 }
+section{
+    margin-top: 130px;
+   
+    margin-bottom: 30px;
+}
 .text-primary{
 
     color: #FD6E0A;   
@@ -17,8 +22,12 @@ font-size: 20px;
  border: 0px;
 
 
-
    }
+   .what-i-do{
+text-decoration: #474747;
+text-align: center;
+   }
+   
 /*header & navigation styles */
 .nav-title{
 font-weight: 800;
@@ -91,8 +100,8 @@ margin-bottom: 32px;
 }
 .section-description{
     color: #FD6E0A;
-    margin-bottom: 32px;
-    font-size: x-large;
+    margin-bottom: 52px;
+    font-size: 25px;
 
 }
 .about-info-container{
@@ -107,4 +116,32 @@ margin-bottom: 32px;
     color: #474747;
     font-size: 24px;
 }
+/* what i do content */
 
+.Skill{
+    background: #FFFFFF;
+box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+border-radius: 5px;
+padding: 30px;
+text-align: left;
+
+}
+.extra{
+padding:30px 345px 50px 346px;
+}
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-title{
+    font-weight: 400;
+font-size: 16px;
+margin-top: 30px; 
+margin bottom: 20px;
+
+}
+.skill-description{
+    color: #474747;
+    margin-top: 20px;
+}
+/*my resume style*/
